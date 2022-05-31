@@ -1,0 +1,40 @@
+body{
+    font-family: Verdana;
+    color: #000800;
+  
+}
+.banner{   
+    background-color: #9f7b55;
+    width: 100%;
+    height: auto;
+    text-align: center;
+    float: left; 
+}
+
+.center{
+    background-color: #3d4a4f;
+    width: 100%;
+    height: auto;
+    float: left;  
+    text-align: center;
+}
+.stopka{
+    background-color: #9f7b55;
+    text-align: center;
+    clear: both;   
+}
+h5{
+    color: #808080;
+    border:solid 1px #808080;
+    margin:  7px 7px 7px 7px ;
+    padding: 10px 10px 10px 10px;
+    font-size: 80%;    
+}
+input{
+    color:#000800;
+    text-align: center;
+    background-color:#FFAB40; 
+}
+leabel{
+    font-size: x-large;
+}
