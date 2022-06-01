@@ -1,1 +1,1 @@
-# ci-gArytmetyczny
+# ci-gArytmetyczny przykład
