@@ -1,1 +1,2 @@
-# ci-gArytmetyczny przykład
+# ci-gArytmetyczny <br>
+przykład ciągu arytmetycznego
